@@ -38,19 +38,6 @@ AI Companion is a full-stack web application that allows users to create and int
 - Stripe account (for payments)
 - Cloudinary account (for image storage)
 
-## Usage Guide
-
-1. Visit https://ai-companion-kaifcoder.vercel.app/
-2. Sign up using GitHub or Google authentication
-3. Browse available companions or upgrade to Pro to create custom ones
-4. Select a companion to start chatting
-5. Interact naturally through the chat interface
-6. For Pro users:
-   - Create custom companions
-   - Define personality traits
-   - Set conversation parameters
-   - Upload custom avatars
-
 ## Creating a Companion
 
 Pro users can create companions by providing:
@@ -91,13 +78,6 @@ Contributions are welcome! Please:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-## Support
-
-For support, questions, or feedback:
-- Email: kaifmohd2014@gmail.com
-- Create an issue in the repository
-- Join our community discussions
 
 ## License
 
