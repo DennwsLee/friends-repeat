@@ -1,10 +1,5 @@
 # AI Companion
 
-<div align="center">
-  <img src="https://github.com/kaifcoder/ai-companion/assets/57701861/46b3c7d7-90db-48af-af51-1867ffe89ad1" height="60" width="60"/>
-  <p>A Character.AI clone that lets you create and chat with customized AI companions</p>
-</div>
-
 ## Overview
 
 AI Companion is a full-stack web application that allows users to create and interact with AI personalities. Similar to Character.AI, you can design companions with unique traits, backstories, and behaviors. Each companion maintains consistent personality and context throughout conversations.
@@ -74,11 +69,6 @@ The application is deployed on Vercel. For custom deployment:
 2. Set up required environment variables
 3. Connect your Vercel account
 4. Deploy with the Vercel CLI or GitHub integration
-
-## Screenshots
-
-![Dashboard View](https://github.com/kaifcoder/ai-companion/assets/57701861/cdad55b8-42c7-4429-9344-be91b515df11)
-<img width="816" alt="Chat Interface" src="https://github.com/kaifcoder/ai-companion/assets/57701861/9e7a8a05-87cf-4cf5-a00d-10ea0d99b597">
 
 ## API Structure
 
